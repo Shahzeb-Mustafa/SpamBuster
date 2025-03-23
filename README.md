@@ -88,6 +88,12 @@ streamlit run app.py
 ---
 
 ## 🖼️ Screenshots
+![image](https://github.com/user-attachments/assets/2696fa73-5c66-4c8b-9de1-a6843f2a872b)
+![image](https://github.com/user-attachments/assets/6b415e6b-aa28-4dea-baa6-ac59595a4804)
+![image](https://github.com/user-attachments/assets/58855e0c-1158-4e81-b27a-e28ebddd9ad6)
+![image](https://github.com/user-attachments/assets/a966272b-3de5-460a-9ee5-7c6b3df31d01)
+
+
 
 
 
